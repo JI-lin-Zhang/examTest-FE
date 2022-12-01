@@ -1,0 +1,25 @@
+{
+  "short_name": "丰林科技面试题",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "LOGO.png",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/png"
+    },
+    {
+      "src": "LOGO.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "LOGO.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
